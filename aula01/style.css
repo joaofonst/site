@@ -1,0 +1,17 @@
+p {
+    font-family: fantasy;
+    font-size: 20pt;
+    color:rgb(0, 132, 255);
+}
+
+p1 {
+    font-family: monospace;
+    font-size: 20pt;
+    color:rgb(174, 0, 255);
+}
+
+a {
+    font-family: monospace;
+    font-size: 20pt;
+    color:rgb(255, 0, 0);
+}
